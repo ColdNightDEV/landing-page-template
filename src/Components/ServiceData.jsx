@@ -12,7 +12,7 @@ const ServiceData = [
     },
     {
         imgsrc: android,
-        title: "Android Development"
+        title: "3d Design"
     },
     {
         imgsrc: software,
